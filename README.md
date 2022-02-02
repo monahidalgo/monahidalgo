@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monahidalgo
 - 👀 I’m interested in ...Software Development , iOS & Android App. Development, Software Engineering, 
-- 🌱 I’m currently working on...Android & Java Mobile Software Development
+- 🌱 I’m currently working on...Android & Java Mobile Software Development & NfT ART, (other)
 - 
 - 📫 How to reach me ...my email: monaego@live.com
 
