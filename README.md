@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on...Android & Java Mobile Software Development, Cross Platform Development & NFT ART, 
       (other)
 - 
-- 📫 Reach me at my email: mona@bittleco.com
+- 📫 Reach me at my email: monaego@live.com
 
 <!---
 monahidalgo/monahidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
