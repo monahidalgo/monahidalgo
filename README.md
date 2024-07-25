@@ -1,5 +1,6 @@
 - 👋 I’m @monahidalgo
-- 👀 I’m into...Software Development, iOS & Android App. Development, Software Engineering, 
+- 👀 Owner @ Bilt Soft.
+- Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps. 
 - 🌱 I’m currently working on...Android & Java Mobile Software Development, Cross Platform Development, Web Apps & NFT ART, 
       (other)
 - 
