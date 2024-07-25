@@ -24,7 +24,8 @@ MySQL	pg	SQL
 Environments, Testing, Other:
 Git	NodeJS	Git	Docker Postman	
 
-![image](https://github.com/user-attachments/assets/3aebe900-1856-4a2f-87b6-41f00a045ee8)![image](https://github.com/user-attachments/assets/7c2b9553-e243-44b5-ac9b-c241e5090c91)
+![image](https://github.com/user-attachments/assets/8391bb5d-dc31-43da-a816-a5f7bce53ef5)
+![image](https://github.com/user-attachments/assets/7c2b9553-e243-44b5-ac9b-c241e5090c91)
 
 
 <!---
