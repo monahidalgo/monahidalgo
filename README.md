@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on...Android & Java Mobile Software Development, Cross Platform Development, Web Apps & NFT ART, (other)
 - 📫 Reach me at my email: monaego@outlook.com
 
-![Profile Image](![1721863724197](https://github.com/user-attachments/assets/82334cbe-7bee-4c82-8007-25142e1e7323)
+!(![1721863724197](https://github.com/user-attachments/assets/82334cbe-7bee-4c82-8007-25142e1e7323)
 )
 
 ### Working on:
