@@ -19,7 +19,7 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 - C
 - JavaScript
 
-![Languages Image](![image](https://github.com/user-attachments/assets/54beb9cd-999d-4de1-b377-3143c5c0d3b2)
+!(![image](https://github.com/user-attachments/assets/54beb9cd-999d-4de1-b377-3143c5c0d3b2)
 )
 
 ### Tools for Data Manipulation & Visualisation:
@@ -36,7 +36,7 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 - Docker
 - Postman
 
-![Tools Image](![image](https://github.com/user-attachments/assets/5066204c-e45e-49d0-ac26-2a155d9ce6bf)
+!(![image](https://github.com/user-attachments/assets/5066204c-e45e-49d0-ac26-2a155d9ce6bf)
 )
 
 <!---
