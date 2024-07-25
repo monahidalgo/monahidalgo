@@ -1,33 +1,40 @@
 - 👋 I’m @monahidalgo
 - 👀 Owner @ Bilt Soft.
-- Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps. 
-- 🌱 I’m currently working on...Android & Java Mobile Software Development, Cross Platform Development, Web Apps & NFT ART, 
-      (other)
-- 
+- Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps.
+- 🌱 I’m currently working on...Android & Java Mobile Software Development, Cross Platform Development, Web Apps & NFT ART, (other)
 - 📫 Reach me at my email: monaego@outlook.com
-- 
 
-![1721863724197](https://github.com/user-attachments/assets/2ecef98b-d20c-449d-a9b4-cb8a3d923637)
+![Profile Image](https://github.com/)
 
-Working on:
-A flutter/ dart mobile app for construction site management called: On-Site Crews.
+### Working on:
+A Flutter/Dart mobile app for construction site management called: On-Site Crews.
 
-Languages:
-JS, Java, Kotlin, Flutter
-Python	C	JavaScript	
-![image](https://github.com/user-attachments/assets/eb8d015d-38ae-490d-b6e0-1f3a9c3ee909)
+### Languages:
+- JS
+- Java
+- Kotlin
+- Flutter
+- Python
+- C
+- JavaScript
 
+![Languages Image](https://github.com/)
 
-Tools for Data Manipulation & Visualisation:
-MySQL	Postgres	SQLite	
-MySQL	pg	SQL
+### Tools for Data Manipulation & Visualisation:
+- MySQL
+- Postgres
+- SQLite
+- MySQL
+- pg
+- SQL
 
-Environments, Testing, Other:
-Git	NodeJS	Git	Docker Postman	
+### Environments, Testing, Other:
+- Git
+- NodeJS
+- Docker
+- Postman
 
-![image](https://github.com/user-attachments/assets/8391bb5d-dc31-43da-a816-a5f7bce53ef5)
-
-
+![Tools Image](https://github.com/)
 
 <!---
 monahidalgo/monahidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
