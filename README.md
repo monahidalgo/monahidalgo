@@ -15,6 +15,7 @@ A flutter/ dart mobile app for construction site management called: On-Site Crew
 Languages:
 JS, Java, Kotlin, Flutter
 Python	C	JavaScript	
+![image](https://github.com/user-attachments/assets/eb8d015d-38ae-490d-b6e0-1f3a9c3ee909)
 
 
 Tools for Data Manipulation & Visualisation:
