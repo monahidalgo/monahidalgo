@@ -11,16 +11,16 @@ A flutter/ dart mobile app for construction site management.
 
 
 Languages:
-JS	
-Python	C	JavaScript	Solidity	Solidity
- libraries for Python3:
+JS, Java, Kotlin, Flutter
+Python	C	JavaScript	
 
-My tools for Data Manipulation & Visualisation:
+
+Tools for Data Manipulation & Visualisation:
 MySQL	Postgres	SQLite	
 MySQL	pg	SQL
+
 Environments, Testing, Other:
-Git	
-NodeJS	Git	Docker Postman	
+Git	NodeJS	Git	Docker Postman	
 
 
 <!---
