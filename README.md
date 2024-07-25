@@ -37,7 +37,7 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 - Docker
 - Postman
 
-![image](https://github.com/user-attachments/assets/5066204c-e45e-49d0-ac26-2a155d9ce6bf)
+
 
 
 <!---
