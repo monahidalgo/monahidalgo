@@ -24,6 +24,7 @@ MySQL	pg	SQL
 Environments, Testing, Other:
 Git	NodeJS	Git	Docker Postman	
 
+![image](https://github.com/user-attachments/assets/3aebe900-1856-4a2f-87b6-41f00a045ee8)
 
 <!---
 monahidalgo/monahidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
