@@ -7,9 +7,18 @@
 <img src="https://github.com/user-attachments/assets/82334cbe-7bee-4c82-8007-25142e1e7323" alt="Profile Image" width="500" height="200">
 
 ### Working on:
-A Flutter/Dart mobile app for construction site management called: On-Site Crews. Current UI image:
+A Flutter/Dart mobile app for construction site management called: On-Site Crews. Current UI images:
 
-<img src="https://github.com/user-attachments/assets/987df954-d559-443c-988c-4145c4fe5154" alt="Project Tools" width="250" height="500">
+<img src="https://github.com/user-attachments/assets/405fca39-5d49-4161-9287-5cddf3e83724" alt="Project Tools" width="250" height="500">
+
+<img src="https://github.com/user-attachments/assets/ef4d4586-d4e1-4eff-9c0c-8385405a5981" alt="Project Tools" width="250" height="500">
+
+<img src="https://github.com/user-attachments/assets/96f6da7f-5085-4dbb-9746-a4711186fa3d" alt="Project Tools" width="250" height="500">
+
+
+
+
+
 
 
 <!---
