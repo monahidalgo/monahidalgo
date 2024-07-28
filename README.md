@@ -11,10 +11,6 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 
 <img src="https://github.com/user-attachments/assets/987df954-d559-443c-988c-4145c4fe5154" alt="Project Tools" width="250" height="500">
 
-### Environments, Testing, Other:
-- Git
-- NodeJS
-- Insomnia
 
 <!---
 monahidalgo/monahidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
