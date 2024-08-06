@@ -24,6 +24,7 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 Updated UI. 
 
 <img src="https://github.com/user-attachments/assets/0b06d41e-9394-48c0-ad2b-024f0b702b8a" alt="Project Tools" width="240" height="400">
+<img src="https://github.com/user-attachments/assets/0c4d5ac5-4096-4d42-a751-e0eb77b541f0"alt="Project Tools" width="200" height="230">
 
 
 
