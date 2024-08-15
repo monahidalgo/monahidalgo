@@ -2,7 +2,7 @@
 - 👀 Owner @ Bilt Soft.
 - Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps.
 - 🌱 I’m currently working on...Android Mobile App Development, Cross Platform Development.
-- 📫 Reach me at my email: monaego@outlook.com
+- 📫 Reach me at my email: monaego@live.com
 ![fb](https://github.com/user-attachments/assets/ca0b96e9-4f08-4476-a421-596999a2531d)
 
 
