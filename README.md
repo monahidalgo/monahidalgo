@@ -4,15 +4,17 @@
 - 🌱 I’m currently working on...Android Mobile App Development, Cross Platform Development.
 - 📫 Reach me at my email: monaego@live.com
 ## Technologies & Tools
+# Hi there 👋
 
-!Android
-!Android Studio
-!Flutter
-!Dart
-!Kotlin
-!Java
-!Firebase
-!GitHub
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Mona the Octocat](https://octodex.github.com/images/mona-the-octocat.gif)
+
 
 
 ![fb](https://github.com/user-attachments/assets/ca0b96e9-4f08-4476-a421-596999a2531d)
