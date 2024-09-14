@@ -51,39 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" title="IDE"/>
 </p>
 
-## Detailed Information
 
-### Mobile App Development
-- **Android:** Platform for developing mobile applications on the Android operating system.
-- **Flutter:** Framework for building natively compiled mobile, web, and desktop applications from a single codebase.
 
-### Front-End Development
-- **Bootstrap:** Framework for developing responsive and mobile-first websites.
-- **CSS3:** Style sheet language used for describing the presentation of a document written in HTML.
-- **Dart:** Programming language used to build Flutter applications.
-- **HTML5:** Markup language used for structuring and presenting content on the web.
-- **JavaScript:** Programming language used to create dynamic and interactive effects on web pages.
-- **React:** JavaScript library for building user interfaces, particularly single-page applications.
-- **Figma:** Design tool used for UI/UX design and prototyping.
-
-### Back-End Development
-- **Java:** Programming language used for building enterprise-scale applications.
-- **Node.js:** JavaScript runtime used to build scalable network applications.
-- **PHP:** Server-side scripting language used for web development.
-- **Python:** High-level programming language used for web development, data analysis, artificial intelligence, and more.
-
-### Database Management
-- **MSSQL:** Relational database management system developed by Microsoft.
-- **Oracle:** Database management system known for its scalability and reliability.
-
-### Design and Prototyping
-- **Illustrator:** Vector graphics editor used for creating illustrations and design elements.
-- **Photoshop:** Image editing software used for creating and editing raster graphics.
-
-### Machine Learning and Data Science
-- **PyTorch:** Deep learning framework used for building and training neural networks.
-- **TensorFlow:** Open-source platform for machine learning and deep learning.
-- **OpenCV:** Library of programming functions used for computer vision and machine learning.
 
 ### API Tools
 - **Postman:** API development tool used for testing and documenting APIs.
@@ -109,20 +78,9 @@
 
 
 
-### I'm building two [Flutter + Dart] cross-platform mobile apps called  'On-Site Crews' and 'Sky Tracker'. I am passionate about design.
-# Project Documentation
+### I'm building two [Flutter + Dart] cross-platform mobile apps called  'On-Site Crews' and 'Sky Tracker'. I am passionate about programming and design.
 
-## Screenshots
 
-### Example of the current project screens being built.
-
-A Flutter/Dart mobile app for construction site management called: On-Site Crews. Current UI images:
-
-<img src="https://github.com/user-attachments/assets/405fca39-5d49-4161-9287-5cddf3e83724" alt="Project Tools" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/0b06d41e-9394-48c0-ad2b-024f0b702b8a" alt="Project Tools" width="240" height="400">
-<img src="https://github.com/user-attachments/assets/0c4d5ac5-4096-4d42-a751-e0eb77b541f0"alt="Project Tools" width="200" height="230">
-
-Updated UI. 
 ## ☕ Support My Work
 
 Hi there! I'm Mona, an Android developer dedicated to building innovative and user-friendly mobile applications. If you appreciate the work I do and would like to support my projects, buying me a coffee is a great way to do so!
