@@ -123,6 +123,28 @@ A Flutter/Dart mobile app for construction site management called: On-Site Crews
 <img src="https://github.com/user-attachments/assets/0c4d5ac5-4096-4d42-a751-e0eb77b541f0"alt="Project Tools" width="200" height="230">
 
 Updated UI. 
+## ☕ Support My Work
+
+Hi there! I'm Mona, an Android developer dedicated to building innovative and user-friendly mobile applications. If you appreciate the work I do and would like to support my projects, buying me a coffee is a great way to do so!
+
+### Why Your Support Matters
+
+1. **Enhance My Projects:** Your contributions help me invest in tools, resources, and learning opportunities, allowing me to keep my skills sharp and my projects up to date.
+
+2. **Maintain Open Source Contributions:** Many of the tools and libraries I develop are open source. Your support helps me maintain and improve these resources, keeping them free and accessible for everyone.
+
+3. **Drive Innovation:** With your support, I can spend more time exploring new ideas and technologies, bringing fresh features and solutions to the community.
+
+4. **Engage with the Community:** Your contributions enable me to participate in events, provide more personalized support, and stay connected with the developer community.
+
+### How to Contribute
+
+If you'd like to support my work and fuel my passion for development, you can buy me a coffee through the link below. Your generosity is greatly appreciated and helps me continue creating valuable tools and applications.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/monaego)
+
+Thank you for your support and for being a part of my journey!
+
 
 
 
