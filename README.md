@@ -3,6 +3,18 @@
 - Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps.
 - 🌱 I’m currently working on...Android Mobile App Development, Cross Platform Development.
 - 📫 Reach me at my email: monaego@live.com
+## Technologies & Tools
+
+!Android
+!Android Studio
+!Flutter
+!Dart
+!Kotlin
+!Java
+!Firebase
+!GitHub
+
+
 ![fb](https://github.com/user-attachments/assets/ca0b96e9-4f08-4476-a421-596999a2531d)
 
 
