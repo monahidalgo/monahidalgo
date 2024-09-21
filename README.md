@@ -79,11 +79,13 @@
 
 
 ### I'm building two [Flutter + Dart] cross-platform mobile apps called  'On-Site Crews' and 'Sky Tracker'. I am passionate about programming and design.
--  I design the logos and graphics for all my apps and websites.
+-  I design the logos and graphics for all my apps and websites. If you need a logo design or icons for your work, I will design it for you.
 
 <img src="https://github.com/user-attachments/assets/e11be1f7-9d53-42df-9458-42d37b91589e" alt="Logo" style="width: 200px; height: auto;">
 
 <img src="https://github.com/user-attachments/assets/22274def-0565-4467-99f2-69a6bddc8f03" alt="Logo" style="width: 250px; height: auto;">
+<img src="https://github.com/user-attachments/assets/ae1f761f-67c5-411d-9379-ca49ae374060" alt="Logo" style="width: 250px; height: auto;">
+
 
 
 
