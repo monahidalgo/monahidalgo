@@ -1,6 +1,6 @@
 # 👋 I’m @monahidalgo
 - 👀 Owner @ Biltsoft.
-- Bilt Soft is a Mobile App Development Company. Building iOS & Android Apps.
+- Biltsoft is a Mobile App Development Company. Building iOS & Android Apps.
 - 🌱 I’m currently working on...Android Mobile App Development, Cross Platform Development.
 - 📫 Reach me at my email: monaego@live.com
 ### Technologies & Tools
