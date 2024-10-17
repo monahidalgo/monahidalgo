@@ -84,7 +84,7 @@
 <img src="https://github.com/user-attachments/assets/f0656d4d-6393-4842-b0b1-7817aa5a0479" alt="Logo" style="width: 250px; height: auto;">
 <img src="https://github.com/user-attachments/assets/22274def-0565-4467-99f2-69a6bddc8f03" alt="Logo" style="width: 250px; height: auto;">
 <img src="https://github.com/user-attachments/assets/ae1f761f-67c5-411d-9379-ca49ae374060" alt="Logo" style="width: 250px; height: auto;">
-<img src="https://github.com/user-attachments/assets/e819e828-e2fa-4a5d-aa95-f71e7a19ce27" alt="Logo" style="width: 220px; height: auto;">
+
 
 
 
@@ -98,7 +98,8 @@ If you'd like to support my work and fuel my passion for development, you can bu
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/monaego)
 
-Thank you for your support and for being a part of my journey!
+Thank you for your support and for being a part of my journey!  
+<img src="https://github.com/user-attachments/assets/e819e828-e2fa-4a5d-aa95-f71e7a19ce27" alt="Logo" style="width: 220px; height: auto;">
 
 
 
