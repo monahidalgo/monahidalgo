@@ -1,6 +1,6 @@
 # 👋 I’m @monahidalgo
 - 👀 Founder @ Mix It Hub, LLC
-- Biltsoft is a Mobile App Development Company. Building iOS & Android Apps.
+- Mix It Hub, LLC is a Software Development Company. Building iOS & Android Apps and Systems.
 - 🌱 I’m working on Android Mobile App Development, Cross Platform Development, and website development.
 - 📫 I'm available so feel free to contact me to build or redesign your website, web app, and mobile apps.
 -  Reach me at my email: mona@mixithub.app to discuss my pricing.
