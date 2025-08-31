@@ -1,6 +1,6 @@
 # 👋 I’m @monahidalgo
 - 👀 Founder @ Mix It Hub, LLC
-- Mix It Hub, LLC is a software development company where I design and build custom software solutions from the ground up. My work spans hospital dashboards, enterprise-grade management systems, and iOS & Android mobile apps — all crafted for performance, scalability, and great user experience.
+- Mix It Hub, LLC is a software development company where I design and build custom software solutions from the ground up. My work spans to hospital dashboards, enterprise-grade management systems, and iOS & Android mobile apps — all crafted for performance, scalability, and great user experience.
 - 🌱 I’m working on Android Mobile App Development, Cross Platform Development, and website development.
 - 📫 I'm available so feel free to contact me to build or redesign your website, web app, and mobile apps.
 -  Reach me at my email: mona@mixithub.app to discuss my pricing.
