@@ -1,119 +1,165 @@
-# 👋 I’m @monahidalgo
-- 👀 Founder @ Mix It Hub, LLC
-- Mix It Hub, LLC is a software development company where I design and build custom software solutions from the ground up. My work spans to hospital dashboards, enterprise-grade management systems, and iOS & Android mobile apps — all crafted for performance, scalability, and great user experience.
-- 🌱 I’m working on Android Mobile App Development, Cross Platform Development, and website development.
-- 📫 I'm available so feel free to contact me to build or redesign your website, web app, and mobile apps.
--  Reach me at my email: mona@codetrackerai.com to discuss my pricing.
-### Technologies & Tools
+# 👨‍💻 Mona Hidalgo
 
-<p align="left">
-  <!-- Mobile App Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" height="50" title="Mobile App Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" title="Mobile App Development"/>
-  
-  <!-- Front-End Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" title="Front-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Design and Prototyping"/>
-  
-  <!-- Back-End Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Back-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Back-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" title="Back-End Development"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Back-End Development"/>
-  
-  <!-- Database Management -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MSSQL" width="50" height="50" title="Database Management"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" title="Database Management"/>
-  
-  <!-- Design and Prototyping -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="50" height="50" title="Design and Prototyping"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" title="Design and Prototyping"/>
-  
-  <!-- Machine Learning and Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50" title="Machine Learning and Data Science"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" title="Machine Learning and Data Science"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50" title="Machine Learning and Data Science"/>
-  
-  <!-- API Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postman" width="50" height="50" title="API Testing"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="50" height="50" title="API Testing"/>
-  
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" title="IDE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="50" height="50" title="IDE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="50" height="50" title="IDE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="50" height="50" title="IDE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" title="IDE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" title="IDE"/>
+<p align="center">
+  <strong>Full-Stack Software Architect & Founder</strong><br>
+  <em>Crafting scalable solutions that transform ideas into enterprise-grade applications</em>
 </p>
 
+---
 
+## 🎯 About Me
 
+I'm the founder of **Mix It Hub, LLC** — a full-stack software development company specializing in high-performance solutions. My expertise spans:
 
-### API Tools
-- **Postman:** API development tool used for testing and documenting APIs.
-- **Insomnia:** REST client for API testing and debugging.
+- 🏥 **Healthcare Systems** — Hospital dashboards and patient management platforms
+- 💼 **Enterprise Solutions** — Mission-critical management systems built for scale
+- 📱 **Mobile Development** — Native and cross-platform iOS & Android applications  
+- 🌐 **Web Applications** — Modern, responsive, and scalable web platforms
+- 🎨 **Design & Branding** — Custom logo design, UI/UX, and visual identity
 
-### IDEs
-- **Android Studio:** Integrated development environment for Android app development.
-- **IntelliJ IDEA:** Integrated development environment for Java and other JVM languages.
-- **WebStorm:** Integrated development environment for JavaScript and TypeScript.
-- **PhpStorm:** Integrated development environment for PHP development.
-- **VS Code:** Source-code editor with support for debugging, syntax highlighting, and version control.
-- **Visual Studio:** Integrated development environment from Microsoft used for .NET and C++ development.
+### 🔥 What's Happening Right Now
 
+I'm shipping **production-ready apps** heading to **Google Play Store & Samsung Galaxy Store**. This is an exciting time — major releases coming soon! 🚀
 
+---
 
+## 🚀 Featured Products
 
+### 🌟 Live & Launching
 
-![Mona the Octocat](https://octodex.github.com/images/mona-the-octocat.gif)
+| Project | Description | Link | Status |
+|---------|-------------|------|--------|
+| **Code Tracker AI** | 🧠 JetBrains IDE Plugin - AI-powered code intelligence | [codetrackerai.com](https://codetrackerai.com) | ✅ **LIVE NOW** |
+| **Med Files** | 📋 Healthcare document & patient file management platform | [medfiles.app](https://medfiles.app) | 🚀 **COMING SOON** |
+| **Safe Signals** | 🚨 Emergency alert & safety coordination system | [safesignals.app](https://safesignals.app) | 🚀 **COMING SOON** |
 
+---
 
+## 🛠️ Tech Stack
 
-![fb](https://github.com/user-attachments/assets/ca0b96e9-4f08-4476-a421-596999a2531d)
+**Mobile & Cross-Platform**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
+</p>
 
+**Frontend Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
+**Backend Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-### I'm building 3 new [Flutter + Dart] cross-platform mobile apps called 'Global Calculator', 'On-Site Crews', and 'Sky Tracker'. I am passionate about programming and design.
--  I design the logos and graphics for all my apps and websites. If you need a logo design or icons for your work, I will create it for you.
+**Databases & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+</p>
 
-<img src="https://github.com/user-attachments/assets/f0656d4d-6393-4842-b0b1-7817aa5a0479" alt="Logo" style="width: 250px; height: auto;">
-<img src="https://github.com/user-attachments/assets/22274def-0565-4467-99f2-69a6bddc8f03" alt="Logo" style="width: 250px; height: auto;">
-<img src="https://github.com/user-attachments/assets/ae1f761f-67c5-411d-9379-ca49ae374060" alt="Logo" style="width: 250px; height: auto;">
+**Machine Learning & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
+**Design & Creative**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+</p>
 
+**IDEs & Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
+---
 
+## 💼 Services
 
+| Service | Description |
+|---------|-------------|
+| **Custom Software Development** | Full-stack solutions built from scratch |
+| **Mobile App Development** | iOS & Android native and cross-platform apps |
+| **Web Application Design & Build** | Modern, responsive, and scalable web platforms |
+| **UI/UX Design** | Beautiful, intuitive interfaces that convert |
+| **Logo Design & Branding** | Custom visual identity and graphic design |
+| **Enterprise Systems** | Mission-critical applications for large organizations |
 
+---
 
+## 📊 What I Bring to the Table
 
-### How to Contribute
+✨ **Performance-First Architecture** — Optimized for speed and scalability  
+✨ **Beautiful Design** — Combines aesthetics with functionality  
+✨ **Enterprise-Grade Quality** — Built to handle real-world demands  
+✨ **Cross-Platform Expertise** — iOS, Android, Web — I've got you covered  
+✨ **Complete Vision** — From concept to deployment, I deliver end-to-end  
 
-If you'd like to support my work and fuel my passion for development, you can buy me a coffee through the link below. Your generosity is greatly appreciated and helps me continue creating valuable tools and applications.
+---
+
+## 📲 App Store Launches
+
+Watch this space! **Code Tracker AI**, **Med Files**, and **Safe Signals** are coming to:
+- 🎯 **Google Play Store**
+- 🎯 **Samsung Galaxy Store**
+
+⭐ **Star this repo to get notified when apps drop!**
+
+---
+
+## 📫 Let's Work Together
+
+Ready to turn your vision into reality? I'm available to build, redesign, or optimize your next project.
+
+<p align="center">
+  <strong>📧 Email:</strong> <a href="mailto:mona@codetrackerai.com"><code>mona@codetrackerai.com</code></a>
+</p>
+
+<p align="center">
+  <strong>Let's discuss your project, timeline, and pricing.</strong>
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you appreciate my work and want to fuel my passion for development, consider supporting me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/monaego)
 
-Thank you for your support and for being a part of my journey!  
-<img src="https://github.com/user-attachments/assets/e819e828-e2fa-4a5d-aa95-f71e7a19ce27" alt="Logo" style="width: 220px; height: auto;">
+Your support helps me continue building tools and applications that matter. Thank you! 🙏
 
+---
 
+<p align="center">
+  <em>Performance • Scalability • Beautiful Design • Enterprise Quality</em><br>
+  <strong>Let's build something amazing together 🚀</strong>
+</p>
 
-
-
-
-
-
-
-
-
+---
 
 <!---
 monahidalgo/monahidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Check out your GitHub profile to see these changes live!
 --->
